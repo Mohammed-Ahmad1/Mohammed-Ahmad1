@@ -12,7 +12,5 @@
 </p>
 
 ## 🌐 Connect with me
-<p align="center">
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mohammedahmad1)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mfalahaddin@gmail.com)
-</p>
