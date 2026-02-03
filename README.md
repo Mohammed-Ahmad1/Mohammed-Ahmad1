@@ -10,3 +10,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,js,html,css,git,ado.net,sqlserver,api" />
 </p>
+
+## 🌐 Connect with me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mohammedahmad1)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mfalahaddin@gmail.com)
