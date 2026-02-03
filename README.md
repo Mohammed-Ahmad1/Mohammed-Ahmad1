@@ -6,3 +6,7 @@
     <img src="https://img.shields.io/badge/My%20CV-Green?style=for-the-badge">
   </a>
 
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,js,html,css,git,docker,sqlserver" />
+</p>
