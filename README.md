@@ -8,5 +8,5 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,js,html,css,git,ado.net,sqlserver" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,js,html,css,git,ado.net,sqlserver,api" />
 </p>
