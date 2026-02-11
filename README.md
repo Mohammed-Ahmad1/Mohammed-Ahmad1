@@ -23,7 +23,7 @@
 
 ## 🛠️ Top Technical Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,cpp,dotnet,html,css,js,git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,html,css,js,git,github,visualstudio" />
 </p>
 
 ---
