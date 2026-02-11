@@ -3,7 +3,7 @@
 
 <p align="center" style="margin-right:10">
   <a href="https://drive.google.com/file/d/1H8Vez00DwfFJ9EjUg6TJdh4ey6I9sc48/preview" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-Open%20Online-28a745?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/My%20CV-28a745?style=for-the-badge" />
   </a>
 <a href="https://Mohammed-Ahmad1.github.io/Portfolio/Portfolio/index.html" target="_blank">
   <img src="https://img.shields.io/badge/My%20Portfolio-0078D7?style=for-the-badge&logo=appveyor&logoColor=white" />
