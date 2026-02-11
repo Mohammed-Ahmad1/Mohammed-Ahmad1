@@ -8,7 +8,6 @@
 
 ## 📄 Resume
 <p align="center">
-  <!-- Opens CV in browser instead of downloading -->
   <a href="https://drive.google.com/file/d/1H8Vez00DwfFJ9EjUg6TJdh4ey6I9sc48/preview" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-Open%20Online-28a745?style=for-the-badge" />
   </a>
@@ -63,23 +62,15 @@
 
 ## 🌐 Connect with me
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mohammedahmad1">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-<a href="mailto:mfalahaddin@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
-<a href="https://join.slack.com/t/myownworkspac-v5l9857/shared_invite/zt-3pvavyx2e-m6D5qOrKLf4oRKOvO7HUFQ">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/slack.svg" height="50"/>
-</a>
-
-<a href="https://wa.me/962779307406">
-  <img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="50"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/mohammedahmad1">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="mailto:mfalahaddin@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  <a href="https://wa.me/962779307406">
+    <img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="50"/>
+  </a>
 </p>
 
 ---
@@ -96,8 +87,11 @@
 💡 Backend Developer specialized in **.NET & SQL Server**  
 💻 Strong in **Data Structures, OOP, and Problem Solving**  
 🔧 Building **RESTful APIs & Desktop Applications (Windows Forms)**  
-📍 Jordan
+📍 Jordan  
 
 ---
 
-⭐ From [Mohammed-Ahmad1](https://github.com/Mohammed-Ahmad1)
+⭐ From [Mohammed-Ahmad1](https://github.com/Mohammed-Ahmad1)  
+
+📧 mfalahaddin@gmail.com  
+📞 +962779307406
