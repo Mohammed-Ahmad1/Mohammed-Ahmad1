@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Falahaddin</h1>
+<h1 align="center">Hi, I'm Mohammed Ahmad</h1>
 <h3 align="center">Backend .NET Developer | Software Engineer</h3>
 
 ---
@@ -41,7 +41,7 @@
 </a>
 
 <!-- Replace the number with yours -->
-<a href="https://wa.me/9627XXXXXXXX">
+<a href="https://wa.me/962779307406">
   <img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="50"/>
 </a>
 
