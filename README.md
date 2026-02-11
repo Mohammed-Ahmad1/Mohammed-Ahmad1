@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Mohammed Ahmad</h1>
-<h3 align="center">Backend .NET Developer | Software Engineer</h3>
+<h3 align="center">
+  Backend .NET Developer | Software Engineer  
+  <span id="typing"></span>
+</h3>
 
 ---
-
 
 ## 📄 Resume
 <p align="center">
@@ -11,6 +13,16 @@
     <img src="https://img.shields.io/badge/View%20My%20CV-Open%20Online-28a745?style=for-the-badge" />
   </a>
 </p>
+
+---
+
+## 🌐 Portfolio
+<p align="center">
+  <a href="https://mohammed-ahmad-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-0078D7?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -30,6 +42,25 @@
 
 ---
 
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Ahmad1&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🏆 Competitive Programming
+<p align="center">
+  <a href="https://www.hackerrank.com/MohammedAhmad1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/MohammedAhmad1" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with me
 <p align="center">
 
@@ -39,12 +70,11 @@
 
 <a href="mailto:mfalahaddin@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a
-
-<a href="https://join.slack.com/t/myownworkspac-v5l9857/shared_invite/zt-3pvavyx2e-m6D5qOrKLf4oRKOvO7HUFQ">
-  <img src="https://skillicons.dev/icons?i=slack" height="50"/>
 </a>
 
+<a href="https://join.slack.com/t/myownworkspac-v5l9857/shared_invite/zt-3pvavyx2e-m6D5qOrKLf4oRKOvO7HUFQ">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/slack.svg" height="50"/>
+</a>
 
 <a href="https://wa.me/962779307406">
   <img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="50"/>
@@ -71,3 +101,39 @@
 ---
 
 ⭐ From [Mohammed-Ahmad1](https://github.com/Mohammed-Ahmad1)
+
+---
+
+<!-- Typing animation script -->
+<script>
+const text = ["Backend Developer", "Software Engineer", "Competitive Programmer"];
+let i = 0, j = 0, currentText = "", isDeleting = false;
+
+function type() {
+  const typingEl = document.getElementById("typing");
+  if(!typingEl) return;
+
+  if(!isDeleting && j <= text[i].length){
+    currentText = text[i].substring(0,j);
+    typingEl.innerHTML = currentText + "|";
+    j++;
+  }
+  if(isDeleting && j >= 0){
+    currentText = text[i].substring(0,j);
+    typingEl.innerHTML = currentText + "|";
+    j--;
+  }
+
+  if(j === text[i].length){
+    isDeleting = true;
+  }
+  if(isDeleting && j === 0){
+    isDeleting = false;
+    i = (i+1) % text.length;
+  }
+
+  setTimeout(type, isDeleting ? 50 : 150);
+}
+
+type();
+</script>
