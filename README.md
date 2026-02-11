@@ -3,13 +3,14 @@
 
 ---
 
+
 ## 📄 Resume
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1H8Vez00DwfFJ9EjUg6TJdh4ey6I9sc48">
-    <img src="https://img.shields.io/badge/My%20CV-Download%20Now-28a745?style=for-the-badge" />
+  <!-- Opens CV in browser instead of downloading -->
+  <a href="https://drive.google.com/file/d/1H8Vez00DwfFJ9EjUg6TJdh4ey6I9sc48/preview" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-Open%20Online-28a745?style=for-the-badge" />
   </a>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -38,9 +39,13 @@
 
 <a href="mailto:mfalahaddin@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a
+
+<a href="https://join.slack.com/t/myownworkspac-v5l9857/shared_invite/zt-3pvavyx2e-m6D5qOrKLf4oRKOvO7HUFQ">
+  <img src="https://skillicons.dev/icons?i=slack" height="50"/>
 </a>
 
-<!-- Replace the number with yours -->
+
 <a href="https://wa.me/962779307406">
   <img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="50"/>
 </a>
