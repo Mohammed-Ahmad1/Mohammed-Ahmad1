@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Ahmad</h1>
+
 <h3 align="center">
-  Backend .NET Developer | Software Engineer  
-  <span id="typing"></span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=28a745&center=true&vCenter=true&width=500&lines=Backend+Developer;Software+Engineer;Competitive+Programmer" />
 </h3>
 
 ---
@@ -101,39 +101,3 @@
 ---
 
 ⭐ From [Mohammed-Ahmad1](https://github.com/Mohammed-Ahmad1)
-
----
-
-<!-- Typing animation script -->
-<script>
-const text = ["Backend Developer", "Software Engineer", "Competitive Programmer"];
-let i = 0, j = 0, currentText = "", isDeleting = false;
-
-function type() {
-  const typingEl = document.getElementById("typing");
-  if(!typingEl) return;
-
-  if(!isDeleting && j <= text[i].length){
-    currentText = text[i].substring(0,j);
-    typingEl.innerHTML = currentText + "|";
-    j++;
-  }
-  if(isDeleting && j >= 0){
-    currentText = text[i].substring(0,j);
-    typingEl.innerHTML = currentText + "|";
-    j--;
-  }
-
-  if(j === text[i].length){
-    isDeleting = true;
-  }
-  if(isDeleting && j === 0){
-    isDeleting = false;
-    i = (i+1) % text.length;
-  }
-
-  setTimeout(type, isDeleting ? 50 : 150);
-}
-
-type();
-</script>
